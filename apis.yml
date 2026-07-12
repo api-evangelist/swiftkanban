@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi
 common:
+  - type: DomainSecurity
+    url: security/swiftkanban-domain-security.yml
   - type: Website
     url: https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi
   - type: PublicAPIsListing
