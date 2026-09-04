@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi', status: 301, note: 'declared website redirects to https://www.nimblework.com/knowledge-base/swiftkanban/ — a different registrable domain (digite.com -> nimblework.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/swiftkanban.png
 name: SwiftKanban
 description: "Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity"
